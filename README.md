@@ -12,6 +12,6 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * React
 * CSS
 * TypeScript
-* 
+
 ### API REST ASP.NET 7
 https://github.com/echiappone/ToDoList
